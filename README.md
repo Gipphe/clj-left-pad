@@ -2,7 +2,7 @@
 
 [![Circle CI](https://circleci.com/gh/Gipphe/clj-left-pad/tree/master.svg?style=svg)](https://circleci.com/gh/Gipphe/clj-left-pad/tree/master)
 
-[![Clojars Project](https://clojars.org/gipphe/left-pad/latest-version.svg)](http://clojars.org/gipphe/left-pad)
+[![Clojars Project](https://img.shields.io/clojars/v/clj-left-pad.svg)](https://clojars.org/clj-left-pad)
 
 A Clojure library for left-padding strings, with a function signature that
 lends itself better to functional style programming.
